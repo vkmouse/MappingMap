@@ -1,7 +1,7 @@
 # MappingMap
 Mapping a map to an image
 
-![](https://github.com/vkmouse/MappingMap/blob/master/Figure/Demo.gif)
+![](https://github.com/vkmouse/MappingMap/blob/main/Figure/Demo.gif)
 
 ## Requirements
 
