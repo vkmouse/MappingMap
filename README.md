@@ -2,6 +2,7 @@
 Mapping a map to an image
 
 ![](https://github.com/vkmouse/MappingMap/blob/main/Figure/Demo.gif)
+![](https://github.com/vkmouse/MappingMap/blob/main/Figure/Demo1.gif)
 
 ## Requirements
 
